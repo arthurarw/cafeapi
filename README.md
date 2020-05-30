@@ -1,6 +1,6 @@
 # CaféApi Library Test
 
-[![Maintainer](http://img.shields.io/badge/maintainer-@robsonvleite-blue.svg?style=flat-square)](https://www.instagram.com/arthurwarmling)
+[![Maintainer](http://img.shields.io/badge/maintainer-@arthurarw-blue.svg?style=flat-square)](https://www.instagram.com/arthurwarmling)
 [![Source Code](http://img.shields.io/badge/source-arthurarw/cafeapi-blue.svg?style=flat-square)](https://github.com/arthurarw/cafeapi)
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/arthurarw/cafeapi.svg?style=flat-square)](https://packagist.org/packages/arthurarw/cafeapi)
 [![Latest Version](https://img.shields.io/github/release/arthurarw/cafeapi.svg?style=flat-square)](https://github.com/arthurarw/cafeapi/releases)
