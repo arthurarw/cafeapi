@@ -1,0 +1,31 @@
+{
+  "name": "arthurarw/cafeapi",
+  "description": "Biblioteca API para integração com o webservice do SaaS FSPHP",
+  "keywords": [
+    "FSPHP",
+    "UpInside",
+    "Arthur",
+    "SaaS",
+    "PHP",
+    "Full Stack"
+  ],
+  "homepage": "http://www.upinside.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Arthur Warmling",
+      "email": "arthurwarmling1@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.1",
+    "ext-json": "*",
+    "ext-curl": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "ArthurArw\\CafeApi\\": "src"
+    }
+  }
+}
